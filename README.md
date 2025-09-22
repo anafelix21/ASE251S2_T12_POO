@@ -1,2 +1,1 @@
-# ASE251S2_T12_POO
-Formulario
+# ASE251S2_LuciaSanchez_POO
